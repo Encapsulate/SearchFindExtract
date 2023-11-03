@@ -1,0 +1,10 @@
+C:\Users\moonwalk\source\repos\searchfindextract\searchfindextract\bin\Release\searchfindextract.exe.config
+C:\Users\moonwalk\source\repos\searchfindextract\searchfindextract\bin\Release\searchfindextract.exe
+C:\Users\moonwalk\source\repos\searchfindextract\searchfindextract\bin\Release\searchfindextract.pdb
+C:\Users\moonwalk\source\repos\searchfindextract\searchfindextract\obj\Release\searchfindextract.csproj.AssemblyReference.cache
+C:\Users\moonwalk\source\repos\searchfindextract\searchfindextract\obj\Release\searchfindextract.Form1.resources
+C:\Users\moonwalk\source\repos\searchfindextract\searchfindextract\obj\Release\searchfindextract.Properties.Resources.resources
+C:\Users\moonwalk\source\repos\searchfindextract\searchfindextract\obj\Release\searchfindextract.csproj.GenerateResource.cache
+C:\Users\moonwalk\source\repos\searchfindextract\searchfindextract\obj\Release\searchfindextract.csproj.CoreCompileInputs.cache
+C:\Users\moonwalk\source\repos\searchfindextract\searchfindextract\obj\Release\searchfindextract.exe
+C:\Users\moonwalk\source\repos\searchfindextract\searchfindextract\obj\Release\searchfindextract.pdb
