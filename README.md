@@ -2,6 +2,7 @@
 Useful tool, with addon for personal use to extract certain files out of directories.
 
 [1]: Get files by extension(*.ext) from input directory and then [COPY] or [MOVE] files to output directory.
+
 [2]: Get path of file + filename*.ext (based on *.extension) (ROOTfolder/folder2/file*.ext) save to .txt (folderRootTitle|file*.ext)
 
 I used this for extracting GameTitle + avatarItem.bin to .txt document from an array of directories of xbox avatars.
